@@ -16,8 +16,17 @@ git branch -M main
 git push -u origin main
 
 
-
-
-我是新加的 内容
-
-i,m new add  content
+git init 初始化
+git add 编辑区添加到暂存区
+git commit 暂存区提交到分支
+Git puch 同步到远程仓仓库
+git remote 创建远程主机名
+git clone 克隆项目到本地
+git pull 拉取项目代码
+git branch 查看分支
+git branch nama 创建分支
+git checkout 切换分支
+git merge 合并分支
+Git Log 查看历史记录
+git reset 恢复版本 
+git reflog 查看命令记录
