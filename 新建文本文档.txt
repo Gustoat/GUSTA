@@ -1,0 +1,23 @@
+
+
+所有的 程序 之间 沟通的数据格式 基本都是 JSON 数据格式
+
+
+｛｝ JOSN 对象
+[] json 数组 
+
+
+  键     值
+{"key":"value","key1":"value2"}
+
+
+{"age":"18","name":"martin","study":"master"}
+{"age":"12","name":"stan","study":"level"}
+
+
+
+[
+{"age":"18","name":"martin","study":"master"},
+{"age":"12","name":"stan","study":"level"}
+
+] 
